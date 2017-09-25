@@ -1,9 +1,8 @@
-# youtube-scripts
+# useful-scripts
 
-[Add all channel videos to a playlist](addAllChannelVideosToAPlaylist.js)
+### YouTube
 
-[Add all channel videos to watch later](addAllChannelVideosToWatchLater.js)
-
-[Remove all videos from watch later](removeAllVideosFromWatchLater.js)
-
-[Show total watch times for watch later videos](showTotalWatchTimesForWatchLaterVideos.js)
+1. [Add all channel videos to a playlist](addAllChannelVideosToAPlaylist.js)
+2. [Add all channel videos to watch later](addAllChannelVideosToWatchLater.js)
+3. [Remove all videos from watch later](removeAllVideosFromWatchLater.js)
+4. [Show total watch times for watch later videos](showTotalWatchTimesForWatchLaterVideos.js)
