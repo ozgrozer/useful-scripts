@@ -1,4 +1,4 @@
-# youtube-bookmarklets
+# youtube-scripts
 
 [Add all channel videos to a playlist](addAllChannelVideosToAPlaylist.js)
 
