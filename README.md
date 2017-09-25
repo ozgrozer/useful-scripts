@@ -14,4 +14,4 @@
 
 ### Tampermonkey
 
-1. [Auto logging](tampermonkey/autoLogging.js)
+1. [Auto login](tampermonkey/autoLogin.js)

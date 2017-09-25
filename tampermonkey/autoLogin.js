@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name    autoLogging
+// @name          autoLogin
 // @namespace     http://your.homepage/
-// @version     0.1
-// @description   Auto logging in script
-// @author    @ozgrozer
-// @match     http://your.homepage/
-// @grant     none
+// @version       0.1
+// @description   Auto login
+// @author        @ozgrozer
+// @match         http://your.homepage/
+// @grant         none
 // ==/UserScript==
 
 var username = 'root'
