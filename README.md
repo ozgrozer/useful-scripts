@@ -7,6 +7,10 @@
 3. [Remove all videos from watch later](youtube/removeAllVideosFromWatchLater.js)
 4. [Show total watch times for watch later videos](youtube/showTotalWatchTimesForWatchLaterVideos.js)
 
+### Development
+
+1. [Debug CSS](development/debugCss.js)
+
 ### Tampermonkey
 
 1. [Auto logging](tampermonkey/autoLogging.js)
