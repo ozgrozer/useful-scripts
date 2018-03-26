@@ -11,7 +11,8 @@
 ### Development
 
 1. [Debug CSS](development/debugCss.js) (Bookmarklet)
-1. [Zeplin Hide Sidebars](development/zeplinHideSidebars.js) (Bookmarklet)
+1. [Zeplin: Hide Sidebars](development/zeplinHideSidebars.js) (Bookmarklet)
+1. [Zeplin: Open Image in New Tab](development/zeplinOpenImageInNewTab.js) (Bookmarklet)
 
 ### Tampermonkey
 
