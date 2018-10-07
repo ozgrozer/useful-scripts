@@ -5,7 +5,7 @@
 */
 var buttons = document.querySelectorAll('.addto-watch-later-button')
 var buttonsLength = buttons.length
-var interval = 250
+var interval = 1000
 var totalSeconds = (interval * buttonsLength) / 1000
 if (window.confirm('Add ' + buttonsLength + ' videos in ' + totalSeconds + ' seconds?')) {
   for (var i = 0; i < buttonsLength; i++) {
