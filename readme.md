@@ -17,3 +17,7 @@
 ### Tampermonkey
 
 1. [Auto login](tampermonkey/autoLogin.js)
+
+### iOS
+
+1. [Put your Mac to sleep with your iPhone](ios/put-your-mac-to-sleep-with-iphone.md)
