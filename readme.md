@@ -3,6 +3,7 @@
 ### Productivity
 
 1. [Download multiple files](productivity/download-multiple-files.js)
+2. [Convert PNG to SVG](productivity/convert-png-to-svg.js)
 
 ### Puppeteer
 
