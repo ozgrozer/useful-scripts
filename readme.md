@@ -4,6 +4,11 @@
 
 1. [Download multiple files](productivity/download-multiple-files.js)
 
+### Puppeteer
+
+1. [New IP over proxy](puppeteer/new-ip-over-proxy.js)
+2. [New IP over Tor](puppeteer/new-ip-over-tor.js)
+
 ### YouTube
 
 1. [Add all channel videos to a playlist](youtube/add-all-channel-videos-to-a-playlist.js)
