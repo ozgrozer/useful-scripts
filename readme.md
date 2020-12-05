@@ -1,5 +1,9 @@
 # useful-scripts
 
+### Productivity
+
+1. [Download multiple files](productivity/download-multiple-files.js)
+
 ### YouTube
 
 1. [Add all channel videos to a playlist](youtube/addAllChannelVideosToAPlaylist.js)
