@@ -1,21 +1,20 @@
+// install tor
+// https://wildcardcorp.com/blogs/tor-torify-torsocks
+
 const puppeteer = require('puppeteer')
 const { spawn } = require('child_process')
 
 const _spawnTor = spawn('tor')
 const spawnTor = () => {
   return new Promise((resolve, reject) => {
-    _spawnTor.stdout.on('data', (data) => {
+    _spawnTor.stdout.on('data', data => {
       if (data.indexOf('100%') !== -1) {
         resolve(true)
       }
     })
 
-    _spawnTor.stderr.on('data', (data) => {
+    _spawnTor.stderr.on('data', data => {
       console.log(`stderr: ${data}`)
-    })
-
-    _spawnTor.on('close', (code) => {
-      console.log('----------')
     })
   })
 }
