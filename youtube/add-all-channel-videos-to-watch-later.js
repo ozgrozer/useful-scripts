@@ -8,8 +8,8 @@
 
 const videos = document.querySelectorAll('.page-container:not([hidden]) ytm-compact-video-renderer.item')
 const totalVideos = videos.length
-const interval = 1000
-const totalSeconds = (interval * totalVideos) / 1000
+const intervalSecond = 1
+const totalSeconds = ((intervalSecond * 1000) * totalVideos) / 1000
 
 if (window.confirm(`Add ${totalVideos} videos in ${totalSeconds} seconds?`)) {
   for (let i = 0; i < totalVideos; i++) {
@@ -26,6 +26,6 @@ if (window.confirm(`Add ${totalVideos} videos in ${totalSeconds} seconds?`)) {
       console.log(left + ' left.')
 
       if (left === 0) console.log('Done.')
-    }, interval * i, i)
+    }, intervalSecond * i, i)
   }
 }
