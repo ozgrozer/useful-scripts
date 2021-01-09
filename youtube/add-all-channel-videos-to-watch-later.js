@@ -25,7 +25,7 @@ if (window.confirm(`Add ${totalVideos} videos in ${totalSeconds} seconds?`)) {
       const left = totalVideos - j - 1
       console.log(left + ' left.')
 
-      if (left === 0) console.log('Done.')
+      if (left === 0) console.log('It\'s done.')
     }, (intervalSecond * 1000) * i, i)
   }
 }
